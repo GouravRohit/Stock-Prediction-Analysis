@@ -30,4 +30,21 @@ Represents the closing price of Yes Bank stock on the given date. This is the pr
 
 There are 185 datapoints in total, with the entire ranging from jul-05 to nov-20.The date column containing inapropriate datatype object which we need to convert in future for get trends and seasonal data accordingly , the columns Open, High,Low ,and Close are of float64 type, representing the numerical prices. In the data does not contains any null values
 
+## Conclusion 
+
+1) The dataset contains monthly stock prices of Yes Bank since its inception.
+2) There is a significant impact on stock prices due to the fraud case involving Rana Kapoor in 2018.
+3) No null values or duplicate data were found.
+4) Despite outliers, they were retained to avoid data loss.
+5) Applied power transformation to handle positively skewed distribution.
+6) High correlation between dependent and independent variables indicates a good prediction potential.
+7) High multicollinearity among independent variables due to small dataset.
+8) KNN Regressor performed the best with an R2 score of 0.993115.
+   
+Project Utility for Stakeholders:
+
+Accurate prediction of closing prices can assist investors in making informed decisions.
+Helps in understanding the impact of major events on stock prices.
+Provides a basis for further financial analysis and investment strategies.
+
 
