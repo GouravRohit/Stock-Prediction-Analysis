@@ -28,7 +28,9 @@ Represents the lowest price reached by Yes Bank stock during the trading day. Th
 5. Close [Type: float64]
 Represents the closing price of Yes Bank stock on the given date. This is the price of the stock when the market closes for the day. The closing price is one of the most important metrics for tracking the performance of a stock because it reflects the final market consensus of the stock's value for that day.
 
-There are 185 datapoints in total, with the entire ranging from jul-05 to nov-20.The date column containing inapropriate datatype object which we need to convert in future for get trends and seasonal data accordingly , the columns Open, High,Low ,and Close are of float64 type, representing the numerical prices. In the data does not contains any null values
+There are 185 datapoints in total, with the entire ranging from jul-05 to nov-20.The date column containing inapropriate datatype object which we need to convert in future for get trends and seasonal data accordingly , the columns Open, High,Low ,and Close are of float64 type, representing the numerical prices. In the data does not contains any null values.
+
+<img width="948" height="533" alt="Image" src="https://github.com/user-attachments/assets/6818ad11-dba3-4cbe-bb33-e3c5bde23d6a" />
 
 ## Conclusion 
 
