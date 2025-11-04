@@ -1,4 +1,4 @@
-# Stock-Prediction-Analysis
+# Yes Bank - Stock Closing Price Prediction
 
 ## Project Summary
 
