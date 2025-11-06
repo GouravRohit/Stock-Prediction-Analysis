@@ -32,7 +32,7 @@ Represents the closing price of Yes Bank stock on the given date. This is the pr
 
 There are 185 datapoints in total, with the entire ranging from jul-05 to nov-20.The date column containing inapropriate datatype object which we need to convert in future for get trends and seasonal data accordingly , the columns Open, High,Low ,and Close are of float64 type, representing the numerical prices. In the data does not contains any null values.
 
-<img width="948" height="533" alt="Image" src="https://github.com/user-attachments/assets/6818ad11-dba3-4cbe-bb33-e3c5bde23d6a" />
+<img width="347" height="516" alt="image" src="https://github.com/user-attachments/assets/1c5a4476-1f40-45d6-84dc-b31819c52da0" />
 
 ## Conclusion 
 
@@ -44,6 +44,8 @@ There are 185 datapoints in total, with the entire ranging from jul-05 to nov-20
 6) High correlation between dependent and independent variables indicates a good prediction potential.
 7) High multicollinearity among independent variables due to small dataset.
 8) KNN Regressor performed the best with an R2 score of 0.993115.
+
+<img width="948" height="533" alt="Image" src="https://github.com/user-attachments/assets/6818ad11-dba3-4cbe-bb33-e3c5bde23d6a" />
    
 Project Utility for Stakeholders:
 
